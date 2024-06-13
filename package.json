@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CRUD sobre los albumes de Twenty One Pilots",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "dev": "nodemon ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
